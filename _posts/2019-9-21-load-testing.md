@@ -25,7 +25,7 @@ tags:
 
 具体到负载测试，流程如下：
 
-![负载测试流程](https://raw.githubusercontent.com/fzp/fzp.github.io/master/_posts_data/2019-9-21-load-testing/load-testing-process.svg?sanitize=true)
+![负载测试流程](https://raw.githubusercontent.com/fzp/fzp.github.io/master/_posts_data/2019-9-21-load-testing/load-testing-process.png?sanitize=true)
 
 ### 设置环境
 
