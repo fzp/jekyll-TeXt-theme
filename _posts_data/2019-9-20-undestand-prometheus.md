@@ -7,7 +7,7 @@ tags:
   - Prometheus
 ---
 
-## 概述
+## 简介
 
 [Prometheus](https://prometheus.io/) 是一款监控软件。真正学习和使用过Promethues后，发现它对于监控业务的理解极其透彻。理解Promethues更像是在了解监控的本质。
 
