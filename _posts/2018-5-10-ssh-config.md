@@ -1,5 +1,5 @@
 ---
-title: ssh 配置文件 (ssh config) 介绍
+title: SSH 配置文件 (SSH config) 介绍
 key: 20180510
 tags:
   - Web
