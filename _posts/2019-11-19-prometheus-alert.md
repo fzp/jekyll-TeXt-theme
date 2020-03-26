@@ -3,7 +3,7 @@ title: Prometheus 告警
 key: 20191119
 tags:
   - alert
-  - [ ] Prometheus
+  - Prometheus
 ---
 
 Prometheus如何处理警报？本文以例子为导向，深入浅出地介绍Prometheus的告警配置。
