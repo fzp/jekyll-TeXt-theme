@@ -9,6 +9,8 @@ tags:
 
 use t-Digest to compute quantile in practise
 
+<!--more-->
+
 ## Outline
 
 * Background
