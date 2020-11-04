@@ -37,7 +37,7 @@ flex布局相当于把一组盒子看作是一维的数组放到一个容器（�
 
 了解flex布局最好的方式是[玩游戏](https://flexboxfroggy.com/)。
 
-![flex-layout.png](https://raw.githubusercontent.com/fzp/fzp.github.io/master/_posts_data/2020-11-3-css-layout-guide/flex-layout.png)
+![flex_layout.png](https://raw.githubusercontent.com/fzp/fzp.github.io/master/_posts_data/2020-11-3-css-layout-guide/flex_layout.png)
 
 flex容器（flex container）中有若干个项目（flex items）. 项目按照主轴（main axis）依次排列。交叉轴（cross ）与主轴垂直，用于调整项目在该方向的位置。
 
@@ -47,7 +47,7 @@ flex容器（flex container）中有若干个项目（flex items）. 项目按�
 
 * flex-direction： 主轴方向
 * flex-wrap：一条主轴排不下是否换行
-* flex-flow： <flex-direction> || <flex-wrap>
+* flex-flow： \<flex-direction\> \|\| \<flex-wrap\>
 * justify-content： 主轴对其方式（左对齐，右对齐，居中，两端对齐， 每个项目两侧的间隔相等。）
 * align-items： 交叉轴对其方式
 * align-content： 多轴线的对齐方式
@@ -58,7 +58,7 @@ flex容器（flex container）中有若干个项目（flex items）. 项目按�
 * flex-grow： 定义放大比例，在主轴上有剩余空间的时候使用。
 * flex-shrink： 定义缩小比例。
 * flex-basis： 定义如何计算剩余空间。
-* flex：none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
+* flex：none \| [ \<'flex-grow'\> \<'flex-shrink'\>? \|\| \<'flex-basis'\> ]
 * align-self： 允许单个项目在交叉轴上有不同的对其方式。覆盖align-items
 
 ## 面：grid布局
@@ -82,7 +82,7 @@ grid-row:1/6;
 }
 ```
 
-![grid-layout.png](https://raw.githubusercontent.com/fzp/fzp.github.io/master/_posts_data/2020-11-3-css-layout-guide/grid-layout.png)
+![grid_layout.png](https://raw.githubusercontent.com/fzp/fzp.github.io/master/_posts_data/2020-11-3-css-layout-guide/grid_layout.png)
 
 主要的思想就是这么简单，其他的属性，比如格子的缩放和内容的对齐，可以参考官方文档或者其他blog。
 
