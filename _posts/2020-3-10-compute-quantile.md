@@ -101,7 +101,7 @@ value|rank|percentile
 
 $$ p = \frac{x-1}{N-1} $$
 
-2.3. 
+2.3.
 
 value|rank|percentile
 -----|----|---------
@@ -204,8 +204,8 @@ In the winner column, t means t-Digest. latencyHistogram is an Object to calcula
 
 Only quantile 0.4 and quantile 0.9, the Bucket algorithm wins. Otherwise, the t-Digest is better.
 
-Most t-Digest’s error rate is less than 1%(except 1 case), some of them less than  0.1%.
-Most latencyHistogram’s error rate is larger than 1%(except 1 case), several times larger than t-Digest’s. 
+Most t-Digest's error rate is less than 1%(except 1 case), some of them less than  0.1%.
+Most latencyHistogram's error rate is larger than 1%(except 1 case), several times larger than t-Digest’s. 
 
 So t-Digest is better.
 
